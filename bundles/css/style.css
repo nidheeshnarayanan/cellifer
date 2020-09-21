@@ -604,7 +604,7 @@ ul.tic-info li {
 /*-- //features --*/
 /* testimonials */
 .testimonials {
-        background: url(../images/banner1.jpg)no-repeat center;
+        background: url(../images/banner.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -668,7 +668,7 @@ p.text-li {
 /*-- stats-count-- */
 
 .stats-count {
-  background: url(../images/banner.jpg) no-repeat center;
+  background: url(../images/black.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
